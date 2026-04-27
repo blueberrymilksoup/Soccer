@@ -1,7 +1,10 @@
 # Controls
 Move player - WASD
+
 Move camera - Mouse
+
 Kick (when near ball) - Left Click Mouse Button
+
 Use Boost - Q
 
 # How to Play
